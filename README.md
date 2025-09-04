@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Yago Rabello
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Desenvolvedor Full Stack
 
